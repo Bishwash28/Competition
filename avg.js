@@ -6,6 +6,7 @@ function getAvg(arr){
 let arrasum=0;
 for(let i=0;i<=array.length;i++){
     arrasum= arrasum+array[i];
+    //for adding sum
 }
 return arrasum;
 }
