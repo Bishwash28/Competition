@@ -1,0 +1,35 @@
+1> Find the sum of all the elements of the provided arrays.
+
+const arrayOne = [1, ,2, 3];
+const arrayTwo = [4, 5, 6];
+
+function getSumOfArrays(arrayOne, arrayTwo) {
+// Your Code Here
+}
+
+console.log(getSumOfArrays(arrayOne, arrayTwo)
+
+
+
+
+
+
+
+2> Given an array of integers as strings and numbers, return the sum of the array values as if all were numbers. Return your answer as a number.
+
+const array = ['5', '0', 9, 3, 2, 1, '9', 6, 7];
+
+function getSum(array){
+// Your Code Here
+}
+
+console.log(getSum(array));
+
+3>Write a function which calculates the average of the numbers in a given array.
+const array = [23, 34, 45, 65, 21];
+
+function getAvg(arr){
+// Your Code Here
+}
+
+console.log(getAvg(array));
